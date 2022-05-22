@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+check kare aap
+ohhhhh hooo hoooo
+
+teri jhalak asharfi
+helooooooooo
+haa
